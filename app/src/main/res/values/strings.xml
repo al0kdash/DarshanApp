@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DarshanApp</string>
+    <string name="ghewar_title">Ghewar</string>
+    <string name="ghewar_body">Ghevar is a North Indian cuisine sweet traditionally associated with the Teej Festival.
+        It is disc-shaped sweet cake made with all-purpose flour and soaked in sugar syrup.
+        There are many varieties of Ghevar, including plain, mawa and malai ghevar.</string>
+    <string name="dalbatti_title">Dal Batti</string>
+    <string name="dalbatti_body">Dal baati is an Indian dish comprising dal and baati.
+        It is popular in Rajasthan, Uttar Pradesh and Madhya Pradesh. Dal is prepared using tuvaar dal,
+        chana dal, mung dal, moth dal, or urad dal.</string>
+    <string name="golgappa_title">Pani Puri</string>
+    <string name="pavbhaji_title">Pav Bhaji</string>
+    <string name="rawatkachori_title">Kachori By Rawat</string>
+    <string name="golgappa_body">Panipuri is a common street snack in several regions of the Indian subcontinent. It consists of a round, hollow puri, fried crisp and filled with a mixture of flavored water, tamarind chutney, chili, chaat masala, potato, onion or chickpeas.</string>
+    <string name="pavbhaji_body">Pav bhaji is a fast food dish from India, consisting of a thick vegetable curry, fried and served with a soft bread roll.</string>
+    <string name="rawatkachori_body">Kachori is a spicy snack, originating from the Indian subcontinent, and common in places with Indian diaspora and other South Asian diaspora, such as Trinidad and Tobago, Guyana, and Suriname.</string>
+    <string name="history_title">Rajasthan</string>
+    <string name="history_body">
+        Rajasthani cuisine (Hindi: राजस्थानी खाना) was influenced by both the war-like lifestyles of its inhabitants and the availability
+        of ingredients in this arid region.[1] Food that could last for several days and could be eaten without heating was
+        preferred. Scarcity of water and fresh green vegetables have all had their effect on the cooking. It is also known for its snacks
+        like Bikaneri Bhujia, Mirchi Bada and Pyaaj Kachori. Other famous dishes include Bajre ki roti (millet bread) and Lashun ki chutney
+        (hot garlic paste), Mawa Kachori from jodhpur, Alwar ka mawa, Malpauas from pushkar and Rassgollas from Bikaner, "paniya"and "gheriya"
+        from Mewar.[1] Originating for the Marwar region of the state is the concept Marwari Bhojnalaya, or vegetarian restaurants, today
+        found in many part of India, which offer vegetarian food of the Marwari people.</string>
+    <string name="ashok_title">Hotel Ashok Palace</string>
+    <string name="ashok_body">\nOpen 9:00AM - 11:00PM \n\nAddress : D-2, Railway Station Road, Near Metro Pillar No.
+        148, Gopalbari, Jaipur, Rajasthan 302001 \n\nMobile : 080031 25730</string>
+    <string name="indanapalace_title">Hotel Indiana Palace</string>
+    <string name="narainapalace_title">Naraina Palace</string>
+    <string name="radissonblu_title">Hotel Radisson Palace</string>
+    <string name="rambagpalace_title">Rambagh Palace By Taj Group</string>
+    <string name="indianapalace_body">\nAddress : Janpath, Ambedkar Nagar, Tonk Phatak, Jaipur, Rajasthan 302015
+        \n\nMobile : 0141 510 2040 \n\nDinner and Lunch availabe on Demand</string>
+    <string name="narainapalace_body">\nWebsite : hotelnarainniwas.com \n\nAddress : A-8, National Highway 8,
+        Gajsinghpur, Jaipur, Rajasthan \n\nMobile : 094603 17743</string>
+    <string name="radissonblu_body">\nBright accommodations in a modern venue with a rooftop pool,
+        a restaurant and 2 bars.\n\nAddress : Plot No. 5 - 6, Airport Plaza. Tonk Road, Jai Jawan-2,
+        Choti Chopad, Chandrakala Colony, Mata colony, Jaipur, Rajasthan 302018 \n\nMobile : 0141 669 8888 \n\nWebsite : radissonblu.com</string>
+    <string name="rambagpalace_body">\nGrand hotel in a converted 19th-century palace, plus a spa, genteel dining and
+        meditation classes. \n\nAddress : Bhawani Singh Road, Rambagh, Jaipur, Rajasthan 302005 \n\nWebsite : taj.tajhotels.com \n\nMobile : 0141 238 5700</string>
+    <string name="amber_title">Amer Fort</string>
+    <string name="amber_body">\nOpen from 8:00AM - 6:00PM \n\nAmer Fort is a fort located in Amer,
+        Rajasthan, India. Amer is a town with an area of 4 square kilometres located 11 kilometres from Jaipur,
+        the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.</string>
+    <string name="birlamandir_title">Birla Temple</string>
+    <string name="birlamandir_body">Birla Mandir refers to different Hindu temples or Mandirs built by the Birla family,
+        in different cities. All these temples are magnificently built, some of them in white marble or in sandstone.</string>
+    <string name="galataji_title">Galataji Temple</string>
+    <string name="galataji_body">Galtaji is an ancient Hindu pilgrimage about 10 km away from Jaipur, in the Indian state of Rajasthan.
+        The site consists of a series of temples built into a narrow crevice in the ring of hills that surrounds Jaipur.</string>
+    <string name="hawamahal_title">Hawa Mahal</string>
+    <string name="hawalmahal_body">\nAddress : Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002
+        \n\nHeight: 15 m \n\nHawa Mahal is a palace in Jaipur, India. It is constructed of red and pink sandstone.
+        The palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women's chambers.</string>
+    <string name="jantarmantar_title">Jantar Mantar</string>
+    <string name="jantarmantar_body">\nUNESCO World Heritage Site inscription: 2010 \n\nHours : Opens 9AM \n\nAddress: Gangori Bazaar, J.D.A. Market,
+        Kanwar Nagar, Jaipur, Rajasthan 302002 \n\nThe Jantar Mantar monument in Jaipur, Rajasthan is a collection of nineteen architectural astronomical
+        instruments built by the Rajput king Sawai Jai Singh II, and completed in 1734.</string>
+    <string name="food">Food</string>
+    <string name="hotels">Hotels</string>
+    <string name="sights">Sights</string>
+    <string name="history">History</string>
+</resources>
